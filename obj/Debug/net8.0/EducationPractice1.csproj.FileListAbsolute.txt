@@ -1,0 +1,14 @@
+/Users/patrik/Documents/Edukacija/EducationPractice1/bin/Debug/net8.0/EducationPractice1
+/Users/patrik/Documents/Edukacija/EducationPractice1/bin/Debug/net8.0/EducationPractice1.deps.json
+/Users/patrik/Documents/Edukacija/EducationPractice1/bin/Debug/net8.0/EducationPractice1.runtimeconfig.json
+/Users/patrik/Documents/Edukacija/EducationPractice1/bin/Debug/net8.0/EducationPractice1.dll
+/Users/patrik/Documents/Edukacija/EducationPractice1/bin/Debug/net8.0/EducationPractice1.pdb
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/EducationPractice1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/EducationPractice1.AssemblyInfoInputs.cache
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/EducationPractice1.AssemblyInfo.cs
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/EducationPractice1.csproj.CoreCompileInputs.cache
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/EducationPractice1.dll
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/refint/EducationPractice1.dll
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/EducationPractice1.pdb
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/EducationPractice1.genruntimeconfig.cache
+/Users/patrik/Documents/Edukacija/EducationPractice1/obj/Debug/net8.0/ref/EducationPractice1.dll
